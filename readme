@@ -39,8 +39,8 @@ Include ./CMakeLists.txt to your CMakeLists.txt
 
 ###### Options
 
--DBUILD_EXMAPLES=ON for building examples
+-DMFL_BUILD_EXAMPLES=ON for building examples
 
--DBUILD_TESTS=ON for building tests
+-DMFL_BUILD_TESTS=ON for building tests
 
 ### Reference & Documentation (to be done)
